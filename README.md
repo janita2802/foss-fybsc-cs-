@@ -1,2 +1,3 @@
 # foss-fybsc-cs
-programs used in fybsc cs
+FYbsc cs:Program codes.
+
