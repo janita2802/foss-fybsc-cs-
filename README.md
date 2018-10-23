@@ -1,1 +1,2 @@
-# foss-fybsc-cs-
+# foss-fybsc-cs
+practical
