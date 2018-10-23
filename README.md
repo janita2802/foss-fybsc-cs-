@@ -1,2 +1,2 @@
 # foss-fybsc-cs
-practical
+programs used in fybsc cs
